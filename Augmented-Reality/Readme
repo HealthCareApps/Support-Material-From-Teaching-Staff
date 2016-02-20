@@ -1,0 +1,11 @@
+These are comments from Robby Kennedy, Senior Engineer, DarumaTech, who made a presentaion in my engineering class 
+on Friday, 2/19/16:
+Find a PPT presentation in this folder. Ask me if you need to contact Robby. 
+Here are some links to the AR SDK’s and tools I mentioned in class. There are sample code, and they have pretty good documentation. I would say ARToolKit and Wikitude have the best, with Vuforia coming in second.
+
+As for integrating the tools, they have libraries that can be easily integrated into an Android app. ARToolKit, being open source, even allows you to build the library yourself, giving you complete control that the other tools do not.
+
+http://artoolkit.org/download-artoolkit-sdk
+http://www.wikitude.com/developer/documentation/androidnative
+https://developer.vuforia.com/downloads/samples
+http://catchoom.com/documentation/sdk/sdk-augmented-reality-image-recognition/
