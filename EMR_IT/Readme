@@ -1,0 +1,17 @@
+This provides more info on the use of open source version of VistA (WorldVistA) that is used within the VA hospitals for 
+electronic records of patients' medical files. This is in collaboration with the non-profit WorldVistA: 
+http://worldvista.org/Software_Download/worldvista_ehr_v2_servers
+
+Ohm Trivedi, an undergraduate student with good IT and data analytics background will help the teams. At present, a virtual server
+is being installed at FAU. He is learning the EWD.js framework which we should be able to use for interfacing VistA or other 
+MUMPS databases. MUMPS is perhaps the first noSQL language, ideally suited for medical databases, typically large, but sparse. 
+Relational databases would be inefficient. Modern implementations combine the strengths of the two. 
+
+The Developer's website -> http://ec2.mgateway.com/ewd/ws/index.html
+
+Udemy Online Courses for the same -> https://www.udemy.com/courses/search/?q=ewdjs&src=ukw&lang=en
+As a student, you can take all the 3 courses for a discounted price of $57. I would have to pay, as a faculty member, $225.
+
+The three groups who will use the EMR/IT backbone for their projects are: Groups 4, 5, and 10.
+
+Dr. Shankar
